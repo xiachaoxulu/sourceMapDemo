@@ -30,5 +30,9 @@ you can see the result is correct
 ## webpack bundles-- with babel-loader
 ![](./images/with-babel-loader.png)
 
+this situation, the result is in build folder
+
 ## webpack bundles-- without babel-loader
 ![](./images/without-babel-loader.png)
+
+this situation, the result is in bak folder
