@@ -6,7 +6,8 @@ var rawSourceMap = map
 var smc = new sourceMap.SourceMapConsumer(rawSourceMap)
 
 // line:141 ==> source code: const abc = 'hello';
+// result:{ source: null, line: null, column: null, name: null }
 console.log(smc.originalPositionFor({
-    line: 137,
+    line: 141,
     column: 0
 }))
