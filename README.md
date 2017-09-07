@@ -5,12 +5,13 @@
 * bak folder --> sourceMap without babel-loader
 * build folder --> sourceMap with babel-loader
 
-## test.js
+## test.js and bak/test.js
 this file test the sourceMap is or not correct
 
 ##
 node test.js
 > this operation will test the sourceMap with babel-loader
+
 you can see the result is null
 ##
 node bak/test.js
