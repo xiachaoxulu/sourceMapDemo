@@ -110,10 +110,10 @@ Object.defineProperty(__webpack_exports__, "__esModule", { value: true });
 /* harmony import */ var __WEBPACK_IMPORTED_MODULE_0__hello_vue___default = __webpack_require__.n(__WEBPACK_IMPORTED_MODULE_0__hello_vue__);
 
 
-console.log(1);
-console.log(2);
-console.log(3);
-console.log(4);
+console.log(1)
+console.log(2)
+console.log(3)
+console.log(4)
 
 /***/ }),
 /* 2 */
@@ -215,4 +215,4 @@ if (false) {
 
 /***/ })
 /******/ ]);
-//# sourceMappingURL=hello.js.map
+//# sourceMappingURL=hello-with-babel-loader.js.map
